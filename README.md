@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tommy-BOU
-- 👀 I’m interested in video games and Web Development. I am competent in Python,C#, HTML, CSS, Javascript and PHP.
-- 🌱 I’m currently learning Web Development.
+- 👀 I’m interested in video games and Web Development. I am competent in Python, C#, HTML, CSS, Javascript, Java and PHP.
+- 🌱 I’m currently learning Web app Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
